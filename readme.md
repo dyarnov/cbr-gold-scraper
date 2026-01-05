@@ -7,10 +7,8 @@
 [https://www.cbr.ru/hd_base/metall/metall_base_new/](https://www.cbr.ru/hd_base/metall/metall_base_new/)
 
 Цена публикуется в **рублях за 1 грамм**.
+
 ![График](plot.png)
-
----
-
 
 Установка и использование
 
